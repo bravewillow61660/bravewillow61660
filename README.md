@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 
 
-<!--
-**bravewillow61660/bravewillow61660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a developer hanging around, figuring things out as I go.
 
-Here are some ideas to get you started:
+### About me
+- Currently learning and building small things
+- Interested in backend, scripting, and the usual web stuff
+- Still early in the journey, so everything is work-in-progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use / learning
+- Python
+- JavaScript
+- Git
+- Linux
+- HTML / CSS
+
+### Projects
+Nothing public yet worth showing. Will drop some here when they're less embarrassing.
+
+---
+
+Feel free to reach out if you want to chat about code or whatever.
